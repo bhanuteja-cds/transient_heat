@@ -1,0 +1,10 @@
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/edit_cache.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/rebuild_cache.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/info.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/strip_comments.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/distclean.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/runclean.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/debug.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/release.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/run.dir
+/home/bhanuteja/dealii-may-2019/dealiiinst-1/examples/47-heat-equation-for-PA/CMakeFiles/47_heat_eqn.dir
